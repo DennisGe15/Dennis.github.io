@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!-- the head tag doesn't show up in the window, it only contains metadata -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Exercise</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sankofa+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <!-- <style>
+        h2{
+            color; limegreen;
+        }
+    </style> -->  
+  </head>
+  
+  <body>
+    <article>
+     <h1 class="my-class heading-font">css exercise</h1>
+     <h2 class="my-class" id="p-id"> Dennis</h2>
+     <a href="#">Go to my website</a> 
+     <p class="my-class body-font"> 
+        Lorem <strong> A </strong> dolor sit, amet consectetur adipisicing elit. Ex, unde.
+     </p>
+     <h2 class="Sankofa">This is heading 2</h2>
+     <h3 class="my-class">this is heading 3</h3>
+     <h1 class="my-class" id="my-id">This is another top heading</h1>
+     <h2></h2>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Repudiandae illo earum, dolorem dolor, quis unde necessitatibus non
+        tenetur repellendus sapiente officia magni, libero inventore dignissimos 
+        facilis pariatur error ipsam saepe perferendis ullam aperiam consequatur? 
+        Expedita fugiat enim corrupti necessitatibus eligendi vitae dolor 
+        dolorum deserunt adipisci, ab totam, earum voluptate modi aliquam 
+        commodi. Eos animi, adipisci rerum fugiat voluptatem in ut?
+     </p>
+     <p>Lorem ipsum dolor sit amet.</p>
+    </article>
+
+  </body>
+</html>  

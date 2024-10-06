@@ -10,6 +10,7 @@ const fullscreenBtn = document.querySelector("#fullscreen-btn");
 const volumecontrolBar = document.querySelector("#volume-control-bar");
 const likesBtn = document.querySelector("#like-btn");
 const likes = document.querySelector("#likes");
+// All of the button icons I used in my music video came from icons8, a very useful icon site, and I've labeled them in the footer of the site with the corresponding external links.
 let likesValue
 console.log(localStorage.getItem('likesvalue'))
 if (localStorage.getItem('likesvalue')) {
